@@ -46,8 +46,6 @@ Command and Aliases | Description | Example
 `/tlate <language code (iso639-1)> <query>` | Translate query to the required language. | `/tlate en 안녕하세요`
 `/dtect <query>` | Detect the language of the query. | `/dtect 안녕하세요`
 
-# Has more features,I need to update this readme.
-  Also has a fun module,bot management commands and utility commands.
 
 
 License
